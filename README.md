@@ -20,7 +20,7 @@ Para criar o arquivo README do seu projeto utilize o comando:
 ` echo "#atividade-git" >> README.MD `
 
 Em seguida inicialize o repositorio
-
+:dizzy:
 ` git init `
 
 para ver o status dos arquivos do seu projeto utilize o comando
@@ -33,7 +33,7 @@ Em seguida adicione o arquivo recem criado README a lista do git
 
 Utilize o comando COMMIT com o atributo -m para colocar uma mensagem de orientaçao
 
-` git commit -m "primeiro commit" `
+` git commit -m "primeiro commit" ` :running:
 
 Em seguida adicione as alteraçoes feitas para o ramo master
 
@@ -41,7 +41,7 @@ Em seguida adicione as alteraçoes feitas para o ramo master
 
 Por fim envie em definitivo
 
-` git push -u origin master `
+` git push -u origin master ` :rocket:
 
 **Autor:** Silvio Antonio O Jr.
 
