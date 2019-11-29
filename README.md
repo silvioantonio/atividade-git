@@ -1,7 +1,9 @@
 # atividade-git
+
+## passo a passo
 Primeiro crie um novo projeto no github e em seguida, clone o repositorio.
 No terminal do seu computador(LINUX).
-' mkdir atividade-git '
+'mkdir atividade-git'
 dentro do seu computador, clone o repositorio com o comando:
 ' git clone git@github.com:silvioantonio/atividade-git.git '
 Para criar o arquivo README do seu projeto utilize o comando:
